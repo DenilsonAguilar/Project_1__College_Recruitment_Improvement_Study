@@ -1,4 +1,4 @@
-# Project1__College_Recruitment_Improvement_Study
+# College_Recruitment_Improvement_Study
 
 ## Overview
 
