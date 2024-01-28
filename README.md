@@ -1,6 +1,6 @@
 # Project_1__College_Recruitment_Improvement_Study
 
-# Overview
+## Overview
 
 # The goal of this project is to perform an exploratory data analysis of the CCM Computing Courses Entry Surveys using Python. The primary objective is to provide insights that can help the Information Technologies department increase enrollment in computing classes. The project is divided into four parts, each corresponding to a specific assignment.
 
