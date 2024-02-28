@@ -10,6 +10,6 @@
 
 ##### 2. Compare the race/ethnicity demographics of the survey over time (2020-2023).  What are the changes over time, if any?
 
-##### 3. Which of the following extended factors (outside sources) impacted a student's decision to attend CCM the most?
+##### 3. What is the most common way students hear about CCM?
 
 ##### 4. What is the most common way students hear about CCM? (Top 5)
