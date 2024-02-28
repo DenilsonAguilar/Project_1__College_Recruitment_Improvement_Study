@@ -1,4 +1,4 @@
-# College_Recruitment_Improvement_Study
+# College Recruitment Improvement Study
 
 ## Overview
 
