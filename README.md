@@ -10,4 +10,4 @@
 
 #### Data Analysis and Visualization - Using my cleaned dataset, I will then perform analysis to answer my data science questions.  my answers will be displayed using plotting techniques.  I will house my project and associated files on my Project 1 repository on GitHub.
 
-#### Improve Your Plots - I will provide and receive feedback to/from my classmates via a Discussion Forum.
+#### Improving Plots - I will provide and receive feedback to/from my classmates via a Discussion Forum.
