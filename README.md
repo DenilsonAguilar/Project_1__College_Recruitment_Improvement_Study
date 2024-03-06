@@ -20,4 +20,4 @@
 
 ##### 4. Which prior events or activities at the County College of Morris and/or with the Department of Information Technologies most significantly influence a student's choice for applying for a computing course/major?
 
-##### Each of these questions can be seened and answerd with the 'Data Analysis and Visualization - (DAguilar).ipynb' file
+##### Each of these questions can be seen and answered with the 'Data Analysis and Visualization - (DAguilar).ipynb' file
